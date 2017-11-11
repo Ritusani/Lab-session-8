@@ -51,11 +51,12 @@ _**Fears:**_
 
 Lastly, we focus on what is the main aim of the visualization? Is it to explore data to get new findings or to declare and support a particular statement. Hence, the aim of this fact sheet is to **declare and support** that doing MSIS at Santa Clara University is definitely a good investment.
 
-### Critique on individual visualizations 
+## Critique on individual visualizations 
  
-_**Previous Fact sheet Looked like this -**_
+					**Previous Fact sheet Looked like this**
 
 <img width="1262" alt="screen shot 2017-11-10 at 9 34 06 pm" src="https://user-images.githubusercontent.com/32205588/32686698-1071962e-c65f-11e7-96b3-06dc37cbbdb0.png">
+
 
 _**Previous Metrics:**_ 
 
@@ -130,7 +131,7 @@ Comparison of all the states is of no use, rather showing just the cities of Cal
 				
 <img width="719" alt="screen shot 2017-11-11 at 12 21 07 am" src="https://user-images.githubusercontent.com/32205588/32687666-647bc9c6-c676-11e7-89c5-93e9500a427c.png">
 
-_**5. Average Early and Mid-career salaries of candidates holding master’s degree from various Universities:
+_**5. Average Early and Mid-career salaries of candidates holding master’s degree from various Universities:**_
 
 This visualization shows the salaries offered to a graduate student of various universities, after gaining their master’s degree, we find that Santa Clara University graduates have considerably high early and mid-career salaries. 
 
@@ -147,29 +148,48 @@ The salary offered to SCU graduates is comparable to the salary offered to gradu
 
 <img width="898" alt="screen shot 2017-11-11 at 12 28 24 am" src="https://user-images.githubusercontent.com/32205588/32687705-48afb8dc-c677-11e7-8b30-b547505402ff.png">
 
+**Implementing Improvements and creating a new fact sheet-**
 
-					
+Link to Tableau Public - https://public.tableau.com/profile/ritu.pardasani#!/vizhome/LabSession8/final_dashboard?publish=yes
 
+					**Improved Fact sheet Looked like this**
 
+<img width="1059" alt="screen shot 2017-11-10 at 9 04 04 pm" src="https://user-images.githubusercontent.com/32205588/32687730-c71b1888-c677-11e7-9ee2-317ee623a4b4.png">
 
+## Framework for redesigning:
 
+I simply followed the framework taught in the class. Taking this course gave me a total different perspective and approach of how to go about for building a visualization. There are various steps involved in the process of building a visualization. Below are the steps which guided me to redesign the visualization:
 
+_**1. Audience:**_ Understand the audience and try to address all of their concerns, fears, wants and needs. 
 
+**My audience** for this are prospective students willing to join MSIS at Santa Clara University.
 
+_**2. Data:**_ Look for data acoordingly or Understanding the data and the context of the data accordingly, which in turn helps in understanding the audience better. As some aspects of the might not be useful to the audience hence those aspects should not be used. 
 
+_**3. Argument or claim:**_ Make a very specific argument using the data that you have. Vague aarguments can be weakened easily, which is not desirable.  
 
+**My claim** is Pursuing Masters in Information Systems (MSIS) from Santa Clara University is a wise choice in terms of academics, job opportunities & return of Investment. 
 
-					
+_**4. Metrics:**_ Choose metrics to support the claim, like -
 
+**My metrics** are Average early and mid-career salaries of SCU Alumini, Unemployment to employment ratio for different graduate courses, Unemployment rate, Average salaries of different majors, Location etc. 
 
+These are the facts which when used with the context of teh argument - actually help in supporting the claim. Finding appropriate metrics is very important. There can be lot of **alternative metrics** available, so **Selecting** one which fits perfectly with the argument is important. 
 
+_**5. Visualization:**_ Put the data on charts and choose charts considering the audience. More Simple - the better. Keeping in mind the data-pixel ratio and not doing data vomit is a must. This is the final step of the framework. 
 
+## Conclusion:
 
-
+It is very easy to identify the extreme difference between the previous visualization and the redesigned visualization. It is undeniable that to get the right visualization following a particular framework helps a lot. Without a framework, it is near to impossible to cover all different aspects of the visualization which distorts the purpose of Data Visualization. 
 
 ## Data Sources:
-I used multiple data sets for making the fact sheet. I have mentioned all the data sources below -
-1. 
-The dataset consisted of huge range of different courses and their different measures such as the rankings and the unemployment rate of these courses.
+I used multiple data sets for making the fact sheet. I have mentioned all the data sources below - (Some data sets were extracted using beautiful soup and others were webscrapped. Some were direct excel files that could be downloaded)
+
+1. https://www.forbes.com/pictures/58ca97794bbe6f0e5588b240/15-kansas-city-missouri/#62b69f8e3251
+2. https://github.com/fivethirtyeight/data/tree/master/college-majors
+3. https://www.gaslampmedia.com/download-zip-code-latitude-longitude-city-state-county-csv/
+4. https://wallethub.com/edu/best-worst-cities-for-jobs-in-california/16337/
+
+
 
 
