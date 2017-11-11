@@ -53,9 +53,15 @@ Lastly, we focus on what is the main aim of the visualization? Is it to explore 
 
 ### Critique on individual visualizations 
  
-_**Previous Fact sheet Looked like this - **_
+_**Previous Fact sheet Looked like this -**_
 
 <img width="1262" alt="screen shot 2017-11-10 at 9 34 06 pm" src="https://user-images.githubusercontent.com/32205588/32686698-1071962e-c65f-11e7-96b3-06dc37cbbdb0.png">
+
+_**Previous Metrics:**_
+
+1. 
+
+
 
 
 
