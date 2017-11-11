@@ -1,0 +1,251 @@
+,City,Percentage of Jobs,Job Market Rank,State
+0,Palo Alto,73.52,1,CA
+1,Pacifica,69.74,2,CA
+2,Menlo Park,66.66,3,CA
+3,Rancho Santa Margarita,68.74,4,CA
+4,San Rafael,66.54,5,CA
+5,Campbell,67.53,6,CA
+6,South San Francisco,65.37,7,CA
+7,Cupertino,66.28,8,CA
+8,Temple City,62.92,9,CA
+9,Redwood City,65.35,10,CA
+10,San Mateo,64.98,11,CA
+11,Lake Forest,65.95,12,CA
+12,Novato,63.12,13,CA
+13,Mountain View,65.02,14,CA
+14,Santa Clara,66.27,15,CA
+15,Daly City,62.46,16,CA
+16,Cypress,64.44,17,CA
+17,San Bruno,63.16,18,CA
+18,Livermore,65.45,19,CA
+19,Sunnyvale,64.32,20,CA
+20,San Francisco,64.36,21,CA
+21,San Clemente,63.19,22,CA
+22,Aliso Viejo,64.74,23,CA
+23,Danville,64.58,24,CA
+24,Culver City,64.46,25,CA
+25,San Ramon,63.93,26,CA
+26,Milpitas,63.97,27,CA
+27,Petaluma,64.56,28,CA
+28,Gilroy,58.95,29,CA
+29,Poway,62.2,30,CA
+30,Cerritos,61.76,31,CA
+31,Whittier,61.03,32,CA
+32,Foster City,62.18,33,CA
+33,Walnut Creek,62.97,34,CA
+34,Morgan Hill,61.44,35,CA
+35,Tustin,61.12,36,CA
+36,Beverly Hills,61.47,37,CA
+37,Encinitas,62.59,38,CA
+38,Redlands,61.39,39,CA
+39,Redondo Beach,64.14,40,CA
+40,San Jose,59.63,41,CA
+41,Brentwood,61.07,42,CA
+42,Manhattan Beach,63.46,43,CA
+43,Union City,59.24,44,CA
+44,Azusa,58.66,45,CA
+45,Pleasanton,63.62,46,CA
+46,Mission Viejo,61.18,47,CA
+47,Chino Hills,60.5,48,CA
+48,Brea,61.22,49,CA
+49,Buena Park,60.05,50,CA
+50,Rancho Palos Verdes,58.06,51,CA
+51,Fremont,60.85,52,CA
+52,Costa Mesa,60.22,53,CA
+53,Alhambra,58.69,54,CA
+54,Irvine,61.28,55,CA
+55,La Mesa,60.1,56,CA
+56,Davis,61.57,57,CA
+57,Hacienda Heights,53.02,58,CA
+58,Downey,57.86,59,CA
+59,Newark,59.47,60,CA
+60,Orange,60.05,61,CA
+61,Dublin,62.18,62,CA
+62,Upland,56.66,63,CA
+63,Alameda,60.24,64,CA
+64,Torrance,60.41,65,CA
+65,Newport Beach,60.7,66,CA
+66,Chino,58.17,67,CA
+67,San Dimas,59.07,68,CA
+68,Santa Clarita,58.33,69,CA
+69,Huntington Beach,59.25,70,CA
+70,Monrovia,58.87,71,CA
+71,Moorpark,58.46,72,CA
+72,Dana Point,58.61,73,CA
+73,Eastvale,59.59,74,CA
+74,Carlsbad,57.99,75,CA
+75,Claremont,61.52,76,CA
+76,Woodland,56.18,77,CA
+77,Yorba Linda,58.87,78,CA
+78,Beaumont,57.11,79,CA
+79,Pasadena,60.36,80,CA
+80,Laguna Niguel,58.96,81,CA
+81,La Quinta,56.06,82,CA
+82,Escondido,54.64,83,CA
+83,Lakewood,57.77,84,CA
+84,Santa Ana,56.02,85,CA
+85,La Verne,56.86,86,CA
+86,Vacaville,58.35,87,CA
+87,San Marcos,56.16,88,CA
+88,South Whittier,53.88,89,CA
+89,Burbank,59.45,90,CA
+90,Santa Maria,53.12,91,CA
+91,Santa Barbara,57.51,92,CA
+92,Concord,55.01,93,CA
+93,Arcadia,58.54,94,CA
+94,San Luis Obispo,58.34,95,CA
+95,Fountain Valley,58.27,96,CA
+96,Folsom,63.51,97,CA
+97,La Puente,55.63,98,CA
+98,Simi Valley,56.42,99,CA
+99,Lawndale,54.27,100,CA
+100,Montebello,52.33,101,CA
+101,Gardena,56.73,102,CA
+102,Rosemead,52.33,103,CA
+103,Lynwood,51.98,104,CA
+104,La Mirada,58.12,105,CA
+105,Hollister,55.27,106,CA
+106,Fullerton,56.8,107,CA
+107,San Gabriel,56.16,108,CA
+108,Diamond Bar,57.17,109,CA
+109,Norwalk,54.99,110,CA
+110,Martinez,57.73,111,CA
+111,San Leandro,55.65,112,CA
+112,Garden Grove,55.84,113,CA
+113,Anaheim,55.51,114,CA
+114,Glendora,55.01,115,CA
+115,Pittsburg,53.26,116,CA
+116,Murrieta,56.38,117,CA
+117,Watsonville,51.36,118,CA
+118,Stanton,54.81,119,CA
+119,Corona,56.23,120,CA
+120,Roseville,58.9,121,CA
+121,Oakley,55.28,122,CA
+122,Rohnert Park,56.35,123,CA
+123,Covina,56.05,124,CA
+124,Oceanside,53.41,125,CA
+125,Bellflower,53,126,CA
+126,Pleasant Hill,54.09,127,CA
+127,Paramount,51.94,128,CA
+128,La Habra,53.87,129,CA
+129,Ontario,53.94,130,CA
+130,Lancaster,52.12,131,CA
+131,Cathedral City,52.46,132,CA
+132,Rancho Cucamonga,56.23,133,CA
+133,Highland,52.33,134,CA
+134,Rowland Heights,51.16,135,CA
+135,Santa Rosa,55.31,136,CA
+136,Lincoln,55.39,137,CA
+137,Hanford,53.59,138,CA
+138,West Sacramento,54.45,139,CA
+139,Montclair,52.54,140,CA
+140,Temecula,57.13,141,CA
+141,Napa,54.64,142,CA
+142,Bell Gardens,49.72,143,CA
+143,Monterey Park,52.85,144,CA
+144,Elk Grove,56.04,145,CA
+145,San Diego,56.15,146,CA
+146,Santa Monica,55.53,147,CA
+147,Berkeley,55.67,148,CA
+148,Clovis,55.49,149,CA
+149,Chula Vista,53.53,150,CA
+150,Fairfield,52.57,151,CA
+151,Placentia,53.27,152,CA
+152,Santa Cruz,53.19,153,CA
+153,Yucaipa,53.73,154,CA
+154,Westminster,52.92,155,CA
+155,Camarillo,55.22,156,CA
+156,Lompoc,50.93,157,CA
+157,Hawthorne,50,158,CA
+158,San Juan Capistrano,53.08,159,CA
+159,Ventura,53.6,160,CA
+160,Richmond,49.37,161,CA
+161,Rocklin,56.29,162,CA
+162,Vista,50.05,163,CA
+163,Seaside,51.36,164,CA
+164,Carson,52.95,165,CA
+165,Palm Springs,51.51,166,CA
+166,Glendale,51.81,167,CA
+167,Santee,53.53,168,CA
+168,Rialto,50.51,169,CA
+169,Colton,50.56,170,CA
+170,Hesperia,49.04,171,CA
+171,Thousand Oaks,52.5,172,CA
+172,Long Beach,51.84,173,CA
+173,Castro Valley,48.83,174,CA
+174,Sacramento,54.84,175,CA
+175,Palm Desert,51.78,176,CA
+176,Salinas,48.6,176,CA
+177,El Cajon,51.78,178,CA
+178,Visalia,53.11,179,CA
+179,Hayward,51.67,180,CA
+180,El Monte,47.38,181,CA
+181,West Covina,51.24,182,CA
+182,Riverside,51.24,183,CA
+183,Oakland,49.75,184,CA
+184,South Gate,48.26,185,CA
+185,Compton,46.13,186,CA
+186,Inglewood,48.9,187,CA
+187,Yuba City,51.33,188,CA
+188,Rancho Cordova,53.13,189,CA
+189,Fontana,51.15,190,CA
+190,Victorville,48.95,191,CA
+191,Palmdale,47.94,192,CA
+192,Pomona,48.28,193,CA
+193,Bakersfield,52.07,194,CA
+194,Pico Rivera,47.94,195,CA
+195,Antioch,48.69,196,CA
+196,Lodi,51.24,197,CA
+197,Porterville,49,198,CA
+198,Tracy,52.2,199,CA
+199,Antelope,47.97,200,CA
+200,Baldwin Park,47.55,201,CA
+201,Stockton,47.43,202,CA
+202,Indio,47.77,203,CA
+203,Manteca,49.85,204,CA
+204,Citrus Heights,50.73,205,CA
+205,West Hollywood,51.1,206,CA
+206,Tulare,46.81,207,CA
+207,Oxnard,46.47,208,CA
+208,Madera,47.15,209,CA
+209,National City,46.75,210,CA
+210,Redding,50.45,211,CA
+211,Lake Elsinore,47.93,212,CA
+212,Turlock,48.4,213,CA
+213,Moreno Valley,47.05,214,CA
+214,Apple Valley,46.17,215,CA
+215,Modesto,48.17,215,CA
+216,Wildomar,48.1,217,CA
+217,Merced,46.6,218,CA
+218,La Presa,44.83,219,CA
+219,Fresno,46.97,220,CA
+220,Chico,50.14,221,CA
+221,San Bernardino,44.04,222,CA
+222,Jurupa Valley,45.97,223,CA
+223,Menifee,45.49,224,CA
+224,Vallejo,45.68,225,CA
+225,Huntington Park,44.1,226,CA
+226,El Centro,47.31,227,CA
+227,Altadena,42.67,228,CA
+228,Bell,42.76,229,CA
+229,San Jacinto,44.15,230,CA
+230,Florence-Graham,40.97,231,CA
+231,Los Banos,44.6,232,CA
+232,El Dorado Hills,48.06,233,CA
+233,Orangevale,44.19,234,CA
+234,Ceres,44.56,235,CA
+235,Coachella,41.9,236,CA
+236,Calexico,41.67,237,CA
+237,Foothill Farms,44.96,238,CA
+238,Perris,41.36,239,CA
+239,Delano,39.72,240,CA
+240,Hemet,40.69,241,CA
+241,North Highlands,41.1,242,CA
+242,Arden-Arcade,41,243,CA
+243,Fair Oaks,44.2,244,CA
+244,Carmichael,40.31,245,CA
+245,East Los Angeles,33,246,CA
+246,Florin,39.34,247,CA
+247,Los Angeles,37.1,248,CA
+248,Oildale,34.79,249,CA
+249,Westmont,29.38,250,CA
