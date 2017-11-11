@@ -16,7 +16,7 @@ I am going to prove the above mentioned claim by answering the following questio
 ## Critique on Previous Lab session:
 The purpose of any visualization holds the key to a better visualization, more clear the purpose better the visualization. This particular lab session was aimed at showing the audience as to how MSIS as a graduate degree is better than other graduate courses and moreover if done from Santa Clara University. Considering the importance of purpose in any visualization elaborating the purpose of this assignment would be the ideal criteria for critiquing it.
 
-### Any visualization’s purpose can be divided into 3 parts depending on the criteria – **
+### Any visualization’s purpose can be divided into 3 parts depending on the criteria –**
 
 **1.	Type of Information –**
 
@@ -58,9 +58,9 @@ Lastly, we focus on what is the main aim of the visualization? Is it to explore 
 <img width="1262" alt="screen shot 2017-11-10 at 9 34 06 pm" src="https://user-images.githubusercontent.com/32205588/32686698-1071962e-c65f-11e7-96b3-06dc37cbbdb0.png">
 
 
-_**Previous Metrics:**_ 
+### Previous Metrics:
 
-### WHY MSIS ? 
+#### WHY MSIS ? 
 
 _**1. Comparison of average salaries of various majors:**_
 
@@ -109,7 +109,7 @@ Secondly, Gantt chart is used to show the unemployment rate. The unemployment ra
 
 <img width="710" alt="screen shot 2017-11-11 at 12 11 47 am" src="https://user-images.githubusercontent.com/32205588/32687601-f6aaca42-c674-11e7-8d25-fc3c2a856394.png">
 
-### WHY SCU ?
+#### WHY SCU ?
 
 _**4. Location of SCU:**_
 
